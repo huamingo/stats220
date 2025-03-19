@@ -22,7 +22,7 @@ A meme that captures how I currently feel about my university studies is![](http
 
 
 
-![ GIF]https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI4d2xhaDV5ajlma2I3MDM0eDJ5M2czNDl2b2pleTl2dWp2OGI5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BYoRqTmcgzHcL9TCy1/giphy.gif
+![ GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI4d2xhaDV5ajlma2I3MDM0eDJ5M2czNDl2b2pleTl2dWp2OGI5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BYoRqTmcgzHcL9TCy1/giphy.gif)
 
 
 
