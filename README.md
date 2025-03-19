@@ -22,7 +22,7 @@ A meme that captures how I currently feel about my university studies is![](http
 
 
 
-![ GIF][https://giphy.com/gifs/thank-you-thanks-thumbs-up-BYoRqTmcgzHcL9TCy1](https://www.bing.com/images/search?view=detailV2&ccid=n1pc%2bX%2fz&id=F6A691B780B3B40ED943B9A439AB1CDC44D9F350&thid=OIP.n1pc-X_zsCRgjvb39-t9UQHaEK&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9f5a5cf97ff3b024608ef6f7f7eb7d51%3frik%3dUPPZRNwcqzmkuQ%26riu%3dhttp%253a%252f%252fwww.culturebully.com%252fwp-content%252fuploads%252f2021%252f12%252f2019-GifsInEmail.gif%26ehk%3dd6BNamgOsvK%252bZC4h7veRoq56OJOa%252fBQap91ty35iDZc%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=750&expw=1333&q=gif&simid=607996310202943951&FORM=IRPRST&ck=CD9650D05F9F8BB39F6E796E19FA2BEA&selectedIndex=10&itb=0)
+![ GIF]https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI4d2xhaDV5ajlma2I3MDM0eDJ5M2czNDl2b2pleTl2dWp2OGI5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BYoRqTmcgzHcL9TCy1/giphy.gif
 
 
 
