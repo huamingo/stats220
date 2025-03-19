@@ -19,4 +19,4 @@ A meme that captures how I currently feel about my university studies is![](http
 *text*
 (https://google.com)
 https://giphy.com/gifs/thank-you-thanks-thumbs-up-BYoRqTmcgzHcL9TCy1
-https://github.com/annafergusson/stats220
+report https://github.com/huamingo/stats220/blob/main/README.md
